@@ -1,5 +1,5 @@
 <?php
     $name = $_GET[name];
     $surname = $_GET[surname];
-    echo "you input".$name
+    echo "Your input".$name."and".$surname;
 ?>
